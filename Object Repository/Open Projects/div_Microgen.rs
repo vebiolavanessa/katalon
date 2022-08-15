@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Microgen</name>
+   <tag></tag>
+   <elementGuidId>58fb5500-aa2e-4122-b529-8a908a62dbc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiCard-root.MuiPaper-elevation0.MuiPaper-rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>715a4736-f6ee-4d0d-b2bd-2f4cfc52afa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiCard-root MuiPaper-elevation0 MuiPaper-rounded</value>
+      <webElementGuid>792f54f7-ec7f-4ccc-b251-f6665eb30ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microgen</value>
+      <webElementGuid>cd4d96df-f534-4368-a77c-fabcae4ebd5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jsx-1592603241&quot;]/div[2]/div[@class=&quot;MuiContainer-root jss288 MuiContainer-maxWidthMd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-9&quot;]/div[2]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root MuiPaper-elevation0 MuiPaper-rounded&quot;]</value>
+      <webElementGuid>853427ef-2049-4a86-b22c-a03111c8a514</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>142ed35b-176f-463b-8f6d-32dc515cf578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Workspace'])[2]/following::div[5]</value>
+      <webElementGuid>921fabde-2912-401b-855a-39a4489307b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vebiola Vanessa'])[2]/following::div[21]</value>
+      <webElementGuid>bf828c7d-21d8-4902-adc3-f0db98c1f576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a New Project'])[1]/preceding::div[2]</value>
+      <webElementGuid>4ae10064-8e7f-4774-8d22-47f3f04bf6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>c5603e4d-94f5-4b96-a9c3-87d2ce4c4317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Microgen' or . = 'Microgen')]</value>
+      <webElementGuid>b2758dc8-56db-43ef-944b-e0edb6f8ca35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
